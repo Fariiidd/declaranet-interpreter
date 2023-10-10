@@ -1,0 +1,4622 @@
+[
+    {
+      "x": 290.65,
+      "y": 67.13999999999999,
+      "str": "DECLARACIÓN MODIFICACIÓN 2023",
+      "dir": "ltr",
+      "width": 208.70399999999998,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281.31,
+      "y": 39.139999999999986,
+      "str": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+      "dir": "ltr",
+      "width": 227.37599999999998,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 602.61,
+      "y": 94.27999999999997,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 602.61,
+      "y": 94.27999999999997,
+      "str": "FECHA DE RECEPCIÓN: 30/05/2023",
+      "dir": "ltr",
+      "width": 168.38999999999993,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 116.94,
+      "y": 53.139999999999986,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 116.94,
+      "y": 53.139999999999986,
+      "str": "DECLARACIÓN DE SITUACIÓN PATRIMONIAL y DE INTERESES DE LOS SERVIDORES PÚBLICOS",
+      "dir": "ltr",
+      "width": 556.1280000000005,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 155.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 155.45999999999998,
+      "str": "DATOS GENERALES DEL SERVIDOR PUBLICO",
+      "dir": "ltr",
+      "width": 222.27999999999997,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 119.13999999999999,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 119.13999999999999,
+      "str": "SECRETARÍA DE LA FUNCIÓN PÚBLICA",
+      "dir": "ltr",
+      "width": 227.37599999999995,
+      "height": 12,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 131.43,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 131.43,
+      "str": "BAJO PROTESTA DE DECIR VERDAD PRESENTO A USTED MI DECLARACIÓN PATRIMONIAL "y" DE INTERESES, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 32 "y" 33 DE LA LE"y" GENERAL DE",
+      "dir": "ltr",
+      "width": 747.2960000000005,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 140.74,
+      "str": "RESPONSABILIDADES ADMINIstrATIVAS.",
+      "dir": "ltr",
+      "width": 163.15200000000002,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 168.5,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 168.5,
+      "str": "NOMBRE(S):",
+      "dir": "ltr",
+      "width": 42,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 62,
+      "y": 168.5,
+      "str": " ",
+      "dir": "ltr",
+      "width": 140,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 202,
+      "y": 169.42000000000002,
+      "str": "PRADO GOMEZ ENRIQUE",
+      "dir": "ltr",
+      "width": 86.34500000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 179.5,
+      "str": "CORREO ELECTRÓNICO INSTITUCIONAL:",
+      "dir": "ltr",
+      "width": 140.406,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 160.406,
+      "y": 179.5,
+      "str": " ",
+      "dir": "ltr",
+      "width": 41.593999999999994,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 202,
+      "y": 179.5,
+      "str": "enrique.prado@peme"x".com",
+      "dir": "ltr",
+      "width": 86.471,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 203.27999999999997,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 203.27999999999997,
+      "str": "DATOS CURRICULARES DEL DECLARANTE",
+      "dir": "ltr",
+      "width": 208.35999999999996,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 26,
+      "y": 217.5,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 26,
+      "y": 217.5,
+      "str": "ESCOLARIDAD",
+      "dir": "ltr",
+      "width": 50.176,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 229.07999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 229.07999999999998,
+      "str": "NIVEL",
+      "dir": "ltr",
+      "width": 17.339999999999996,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 37.339999999999996,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 96.66,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 134,
+      "y": 229.07999999999998,
+      "str": "INSTITUCIÓN EDUCATIVA",
+      "dir": "ltr",
+      "width": 74.34000000000002,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 208.34000000000003,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 39.65999999999997,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 248,
+      "y": 229.07999999999998,
+      "str": "UBICACIÓN",
+      "dir": "ltr",
+      "width": 33.336,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281.336,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 80.66399999999999,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 362,
+      "y": 229.07999999999998,
+      "str": "CARRERA O ÁREA DE CONOCIMIENTO",
+      "dir": "ltr",
+      "width": 112.68000000000004,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 474.68000000000006,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 37.319999999999936,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 512,
+      "y": 229.07999999999998,
+      "str": "ESTATUS",
+      "dir": "ltr",
+      "width": 27.672,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 539.6719999999999,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 54.32800000000009,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 594,
+      "y": 229.07999999999998,
+      "str": "DOCUMENTO OBTENIDO",
+      "dir": "ltr",
+      "width": 72.33600000000001,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 666.336,
+      "y": 229.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 41.66399999999999,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 708,
+      "y": 229.07999999999998,
+      "str": "FECHA",
+      "dir": "ltr",
+      "width": 20.334,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 134,
+      "y": 243.07999999999998,
+      "str": "UANL",
+      "dir": "ltr",
+      "width": 16.002,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 243.07999999999998,
+      "str": "LICENCIATURA",
+      "dir": "ltr",
+      "width": 44.004,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 64.004,
+      "y": 243.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 183.99599999999998,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 248,
+      "y": 243.07999999999998,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 23.669999999999998,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 271.67,
+      "y": 243.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 90.32999999999998,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 362,
+      "y": 243.07999999999998,
+      "str": "INGENIERO GEOFISCO",
+      "dir": "ltr",
+      "width": 67.01400000000001,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 429.01400000000007,
+      "y": 243.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 82.98599999999993,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 512,
+      "y": 243.07999999999998,
+      "str": "FINALIZADO",
+      "dir": "ltr",
+      "width": 35.339999999999996,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 547.34,
+      "y": 243.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 46.65999999999997,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 594,
+      "y": 243.07999999999998,
+      "str": "TITULO",
+      "dir": "ltr",
+      "width": 21.336,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 615.3360000000001,
+      "y": 243.07999999999998,
+      "str": " ",
+      "dir": "ltr",
+      "width": 92.66399999999987,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 708,
+      "y": 242.07999999999998,
+      "str": "1998-01-16",
+      "dir": "ltr",
+      "width": 30.683999999999994,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 134,
+      "y": 257.08,
+      "str": "UNAM",
+      "dir": "ltr",
+      "width": 17.664,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 257.08,
+      "str": "MAE"str"IA",
+      "dir": "ltr",
+      "width": 30.671999999999997,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 50.672000000000004,
+      "y": 257.08,
+      "str": " ",
+      "dir": "ltr",
+      "width": 197.328,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 248,
+      "y": 257.08,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 23.669999999999998,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 271.67,
+      "y": 257.08,
+      "str": " ",
+      "dir": "ltr",
+      "width": 90.32999999999998,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 362,
+      "y": 255.07999999999998,
+      "str": "MAE"str"IA EN INGNIERIA DE E"x"PLOTACION DE",
+      "dir": "ltr",
+      "width": 137.364,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 362,
+      "y": 262.07,
+      "str": "RECURSOS NATURALES",
+      "dir": "ltr",
+      "width": 71.676,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 433.67600000000004,
+      "y": 262.07,
+      "str": " ",
+      "dir": "ltr",
+      "width": 78.32399999999996,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 512,
+      "y": 257.08,
+      "str": "TRUNCO",
+      "dir": "ltr",
+      "width": 25.662,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 537.662,
+      "y": 257.08,
+      "str": " ",
+      "dir": "ltr",
+      "width": 56.337999999999965,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 594,
+      "y": 257.08,
+      "str": "CERTIFICADO",
+      "dir": "ltr",
+      "width": 40.668,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 634.668,
+      "y": 257.08,
+      "str": " ",
+      "dir": "ltr",
+      "width": 73.332,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 708,
+      "y": 256.08,
+      "str": "2014-08-31",
+      "dir": "ltr",
+      "width": 30.683999999999994,
+      "height": 6,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 278.28,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 278.28,
+      "str": "DATOS DEL EMPLEO, CARGO O COMISIÓN ACTUAL",
+      "dir": "ltr",
+      "width": 249.5,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 291.5,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 291.5,
+      "str": "NIVEL / ORDEN DE GOBIERNO:",
+      "dir": "ltr",
+      "width": 104.63599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 301.5,
+      "str": "ÁMBITO PÚBLICO:",
+      "dir": "ltr",
+      "width": 61.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 311.5,
+      "str": "NOMBRE DEL ENTE PÚBLICO:",
+      "dir": "ltr",
+      "width": 101.52099999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 332.5,
+      "str": "ÁREA DE ADSCRIPCIÓN:",
+      "dir": "ltr",
+      "width": 83.237,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 342.5,
+      "str": "EMPLEO, CARGO O COMISIÓN:",
+      "dir": "ltr",
+      "width": 105.41299999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 352.5,
+      "str": "¿ESTÁ CONTRATADO POR HONORARIOS?:",
+      "dir": "ltr",
+      "width": 146.244,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 362.5,
+      "str": "NIVEL DEL EMPLEO, CARGO O COMISIÓN:",
+      "dir": "ltr",
+      "width": 143.14999999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 372.5,
+      "str": "ESPECIFIQUE FUNCIÓN PRINCIPAL:",
+      "dir": "ltr",
+      "width": 121.744,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 392.5,
+      "str": "TELÉFONO DE OFICINA "y" E"x"TENSIÓN:",
+      "dir": "ltr",
+      "width": 130.69699999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 307.42,
+      "y": 419.77,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 307.42,
+      "y": 419.77,
+      "str": "EN MÉ"x"ICO DOMICILIO DEL EMPLEO, CARGO O COMISIÓN",
+      "dir": "ltr",
+      "width": 227.1599999999999,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 431.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 431.41999999999996,
+      "str": "CALLE:",
+      "dir": "ltr",
+      "width": 24.122000000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 44.122,
+      "y": 431.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 376.878,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 421,
+      "y": 431.41999999999996,
+      "str": "NÚMERO E"x"TERIOR:",
+      "dir": "ltr",
+      "width": 70.78400000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 441.41999999999996,
+      "str": "NÚMERO INTERIOR:",
+      "dir": "ltr",
+      "width": 68.446,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 88.446,
+      "y": 441.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 332.554,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 421,
+      "y": 441.41999999999996,
+      "str": "COLONIA / LOCALIDAD:",
+      "dir": "ltr",
+      "width": 78.96700000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 451.41999999999996,
+      "str": "MUNICIPIO / ALCALDÍA:",
+      "dir": "ltr",
+      "width": 78.575,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 98.57499999999997,
+      "y": 451.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 322.425,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 421,
+      "y": 451.41999999999996,
+      "str": "ENTIDAD FEDERATIVA:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 461.41999999999996,
+      "str": "CÓDIGO POSTAL:",
+      "dir": "ltr",
+      "width": 59.905999999999985,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 291.5,
+      "str": "FEDERAL",
+      "dir": "ltr",
+      "width": 32.284000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 301.5,
+      "str": "EJECUTIVO",
+      "dir": "ltr",
+      "width": 39.284000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 311.5,
+      "str": "Peme"x" E"x"ploración "y" Producción",
+      "dir": "ltr",
+      "width": 102.70400000000008,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 332.5,
+      "str": "ACTIVO DE E"x"PLORACION TERRE"str"E NORTE",
+      "dir": "ltr",
+      "width": 161.0280000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 342.5,
+      "str": "ESPECIALISTA TECNICO B",
+      "dir": "ltr",
+      "width": 89.85900000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 352.5,
+      "str": "No",
+      "dir": "ltr",
+      "width": 8.946,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 362.5,
+      "str": "37",
+      "dir": "ltr",
+      "width": 7.784,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 372.5,
+      "str": "EVALUACION "y" PROGRAMACION",
+      "dir": "ltr",
+      "width": 112.02100000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 280,
+      "y": 382.5,
+      "str": "2018-06-25",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 281,
+      "y": 392.5,
+      "str": "7828261000",
+      "dir": "ltr",
+      "width": 38.92,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 319.91999999999996,
+      "y": 392.5,
+      "str": " ",
+      "dir": "ltr",
+      "width": 58.08000000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 378,
+      "y": 392.5,
+      "str": "33427",
+      "dir": "ltr",
+      "width": 19.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    ... 18 more items
+]
+  [
+    {
+      "x": 20,
+      "y": 40.41999999999996,
+      "str": "ÁMBITO / SECTOR EN EL QUE LABORASTE:",
+      "dir": "ltr",
+      "width": 147.04199999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 50.41999999999996,
+      "str": "NIVEL / ORDEN DE GOBIERNO:",
+      "dir": "ltr",
+      "width": 104.63599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 60.41999999999996,
+      "str": "ÁMBITO PÚBLICO:",
+      "dir": "ltr",
+      "width": 61.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 71.35000000000002,
+      "str": "NOMBRE DEL ENTE PÚBLICO / NOMBRE DE LA EMPRESA,",
+      "dir": "ltr",
+      "width": 196.43400000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 79.5,
+      "str": "SOCIEDAD O ASOCIACIÓN:",
+      "dir": "ltr",
+      "width": 91.79799999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 90.41999999999996,
+      "str": "ÁREA DE ADSCRIPCIÓN / ÁREA:",
+      "dir": "ltr",
+      "width": 108.13599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 100.42000000000002,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO:",
+      "dir": "ltr",
+      "width": 140.03499999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 110.42000000000002,
+      "str": "ESPECIFIQUE FUNCIÓN PRINCIPAL:",
+      "dir": "ltr",
+      "width": 121.744,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 120.42000000000002,
+      "str": "FECHA DE INGRESO:",
+      "dir": "ltr",
+      "width": 71.56799999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 130.42000000000002,
+      "str": "FECHA DE EGRESO:",
+      "dir": "ltr",
+      "width": 69.23699999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 140.42000000000002,
+      "str": "LUGAR DONDE SE UBICA:",
+      "dir": "ltr",
+      "width": 87.90599999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 40.41999999999996,
+      "str": "PUBLICO",
+      "dir": "ltr",
+      "width": 30.730000000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 28.769999999999982,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 28.769999999999982,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO",
+      "dir": "ltr",
+      "width": 157.81600000000003,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 50.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 50.41999999999996,
+      "str": "FEDERAL",
+      "dir": "ltr",
+      "width": 32.284000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 60.41999999999996,
+      "str": "ORGANO AUTÓNOMO",
+      "dir": "ltr",
+      "width": 74.28400000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 75.41999999999996,
+      "str": "PEME"x"",
+      "dir": "ltr",
+      "width": 24.507,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 90.41999999999996,
+      "str": "E"x"PLORACION "y" PRODUCCIÓN",
+      "dir": "ltr",
+      "width": 106.96000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 100.42000000000002,
+      "str": "PROFECIONISTA A",
+      "dir": "ltr",
+      "width": 63.791000000000025,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 110.42000000000002,
+      "str": "AU"x"ILIAR",
+      "dir": "ltr",
+      "width": 31.899,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 120.42000000000002,
+      "str": "2001-05-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 130.42000000000002,
+      "str": "2001-09-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 140.42000000000002,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 165.42000000000002,
+      "str": "ÁMBITO / SECTOR EN EL QUE LABORASTE:",
+      "dir": "ltr",
+      "width": 147.04199999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 175.42000000000002,
+      "str": "NIVEL / ORDEN DE GOBIERNO:",
+      "dir": "ltr",
+      "width": 104.63599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 185.42000000000002,
+      "str": "ÁMBITO PÚBLICO:",
+      "dir": "ltr",
+      "width": 61.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 196.35000000000002,
+      "str": "NOMBRE DEL ENTE PÚBLICO / NOMBRE DE LA EMPRESA,",
+      "dir": "ltr",
+      "width": 196.43400000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 204.5,
+      "str": "SOCIEDAD O ASOCIACIÓN:",
+      "dir": "ltr",
+      "width": 91.79799999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 215.42000000000002,
+      "str": "ÁREA DE ADSCRIPCIÓN / ÁREA:",
+      "dir": "ltr",
+      "width": 108.13599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 225.42000000000002,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO:",
+      "dir": "ltr",
+      "width": 140.03499999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 235.42000000000002,
+      "str": "ESPECIFIQUE FUNCIÓN PRINCIPAL:",
+      "dir": "ltr",
+      "width": 121.744,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 245.42000000000002,
+      "str": "FECHA DE INGRESO:",
+      "dir": "ltr",
+      "width": 71.56799999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 255.42000000000002,
+      "str": "FECHA DE EGRESO:",
+      "dir": "ltr",
+      "width": 69.23699999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 265.42,
+      "str": "LUGAR DONDE SE UBICA:",
+      "dir": "ltr",
+      "width": 87.90599999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 165.42000000000002,
+      "str": "PUBLICO",
+      "dir": "ltr",
+      "width": 30.730000000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 153.76999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 153.76999999999998,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO",
+      "dir": "ltr",
+      "width": 157.81600000000003,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 175.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 175.42000000000002,
+      "str": "FEDERAL",
+      "dir": "ltr",
+      "width": 32.284000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 185.42000000000002,
+      "str": "ORGANO AUTÓNOMO",
+      "dir": "ltr",
+      "width": 74.28400000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 200.42000000000002,
+      "str": "PEME"x"",
+      "dir": "ltr",
+      "width": 24.507,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 215.42000000000002,
+      "str": "E"x"PLORACION "y" PRODUCCIÓN",
+      "dir": "ltr",
+      "width": 106.96000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 225.42000000000002,
+      "str": "ESPECIALISTA TECNICO D",
+      "dir": "ltr",
+      "width": 90.24400000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 235.42000000000002,
+      "str": "ANALISTA",
+      "dir": "ltr",
+      "width": 33.845000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 245.42000000000002,
+      "str": "2001-09-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 255.42000000000002,
+      "str": "2009-03-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 265.42,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 290.42,
+      "str": "ÁMBITO / SECTOR EN EL QUE LABORASTE:",
+      "dir": "ltr",
+      "width": 147.04199999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 300.42,
+      "str": "NIVEL / ORDEN DE GOBIERNO:",
+      "dir": "ltr",
+      "width": 104.63599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 310.42,
+      "str": "ÁMBITO PÚBLICO:",
+      "dir": "ltr",
+      "width": 61.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 321.35,
+      "str": "NOMBRE DEL ENTE PÚBLICO / NOMBRE DE LA EMPRESA,",
+      "dir": "ltr",
+      "width": 196.43400000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 329.5,
+      "str": "SOCIEDAD O ASOCIACIÓN:",
+      "dir": "ltr",
+      "width": 91.79799999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 340.42,
+      "str": "ÁREA DE ADSCRIPCIÓN / ÁREA:",
+      "dir": "ltr",
+      "width": 108.13599999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 350.42,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO:",
+      "dir": "ltr",
+      "width": 140.03499999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 360.41999999999996,
+      "str": "ESPECIFIQUE FUNCIÓN PRINCIPAL:",
+      "dir": "ltr",
+      "width": 121.744,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 370.41999999999996,
+      "str": "FECHA DE INGRESO:",
+      "dir": "ltr",
+      "width": 71.56799999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 380.41999999999996,
+      "str": "FECHA DE EGRESO:",
+      "dir": "ltr",
+      "width": 69.23699999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 390.41999999999996,
+      "str": "LUGAR DONDE SE UBICA:",
+      "dir": "ltr",
+      "width": 87.90599999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 290.42,
+      "str": "PUBLICO",
+      "dir": "ltr",
+      "width": 30.730000000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 278.77,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 278.77,
+      "str": "EMPLEO, CARGO O COMISIÓN / PUESTO",
+      "dir": "ltr",
+      "width": 157.81600000000003,
+      "height": 8,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 300.42,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 300.42,
+      "str": "FEDERAL",
+      "dir": "ltr",
+      "width": 32.284000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 310.42,
+      "str": "ORGANO AUTÓNOMO",
+      "dir": "ltr",
+      "width": 74.28400000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 325.42,
+      "str": "PETROLEO ME"x"ICANOS",
+      "dir": "ltr",
+      "width": 82.07500000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 340.42,
+      "str": "E"x"PLORACION "y" PRODUCCIÓN",
+      "dir": "ltr",
+      "width": 106.96000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 350.42,
+      "str": "ESPECIALISTA TECNICO C",
+      "dir": "ltr",
+      "width": 90.24400000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 360.41999999999996,
+      "str": "SUPERVISION",
+      "dir": "ltr",
+      "width": 47.845,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 370.41999999999996,
+      "str": "2009-03-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 380.41999999999996,
+      "str": "2013-11-23",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 260,
+      "y": 390.41999999999996,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 413.46000000000004,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 413.46000000000004,
+      "str": "INGRESOS NETOS DEL DECLARANTE, (ENTRE EL 1 DE ENERO "y" 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR)",
+      "dir": "ltr",
+      "width": 564.56,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 742.76,
+      "y": 431.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 742.76,
+      "y": 431.41999999999996,
+      "str": "1341038",
+      "dir": "ltr",
+      "width": 27.244,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 766.11,
+      "y": 446.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 766.11,
+      "y": 466.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 425.5,
+      "str": "I. REMUNERACIÓN ANUAL NETA DEL DECLARANTE POR SU CARGO PÚBLICO (POR CONCEPTO DE SUELDOS, HONORARIOS, COMPENSACIONES, BONOS, AGUINALDOS "y" OTRAS",
+      "dir": "ltr",
+      "width": 605.2270000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 433.65,
+      "str": "PRESTACIONES) (CANTIDADES NETAS DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 224.42700000000008,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 445.5,
+      "str": "II. OTROS INGRESOS DEL DECLARANTE (SUMA DEL II.1 AL II.5)",
+      "dir": "ltr",
+      "width": 212.39399999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 455.5,
+      "str": "II.1 POR ACTIVIDAD INDU"str"IAL, COMERCIAL "y" / O EMPRESARIAL (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 319.73900000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 465.5,
+      "str": "II.2 POR ACTIVIDAD FINANCIERA (RENDIMIENTOS O GANANCIAS) (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 316.218,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 475.5,
+      "str": "II.3 POR SERVICIOS PROFESIONALES, CONSEJOS, CONSULTORÍAS "y" / O ASESORÍAS (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 384.71999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 485.5,
+      "str": "II.4 POR ENAJENACIÓN DE BIENES (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 212.77200000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 495.5,
+      "str": "II.5 OTROS INGRESOS NO CONSIDERADOS A LOS ANTERIORES (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 311.5700000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 766.11,
+      "y": 486.42,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 742.76,
+      "y": 506.42,
+      "str": "1341038",
+      "dir": "ltr",
+      "width": 27.244,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 505.5,
+      "str": "A. INGRESO ANUAL NETO DEL DECLARANTE (SUMA DEL NUMERAL I "y" II)",
+      "dir": "ltr",
+      "width": 246.99500000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 527.46,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 527.46,
+      "str": "POR ACTIVIDAD INDU"str"IAL, COMERCIAL "y" / O EMPRESARIAL (DESPUÉS DE IMPUESTOS).",
+      "dir": "ltr",
+      "width": 442.87000000000006,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 541.42,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 541.42,
+      "str": "NOMBRE O RAZÓN SOCIAL",
+      "dir": "ltr",
+      "width": 92.18299999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 122.18299999999998,
+      "y": 541.42,
+      "str": " ",
+      "dir": "ltr",
+      "width": 207.817,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 330,
+      "y": 541.42,
+      "str": "TIPO DE NEGOCIO",
+      "dir": "ltr",
+      "width": 63.01400000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 393.01400000000007,
+      "y": 541.42,
+      "str": " ",
+      "dir": "ltr",
+      "width": 330.936,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 541.42,
+      "str": "MONTO",
+      "dir": "ltr",
+      "width": 26.054000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 580.46,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 580.46,
+      "str": "POR ACTIVIDAD FINANCIERA (RENDIMIENTOS O GANANCIAS) (DESPUÉS DE IMPUESTOS).",
+      "dir": "ltr",
+      "width": 437.8400000000001,
+      "height": 10,
+      "fontName": "Helvetica"
+    }
+]
+  Into ingresos
+  [
+    {
+      "x": 30,
+      "y": 27.41999999999996,
+      "str": "TIPO IN"str"UMENTO",
+      "dir": "ltr",
+      "width": 69.61500000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 99.615,
+      "y": 27.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 624.335,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 27.41999999999996,
+      "str": "MONTO",
+      "dir": "ltr",
+      "width": 26.054000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 38.41999999999996,
+      "str": "CAPITAL",
+      "dir": "ltr",
+      "width": 29.176000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 59.175999999999995,
+      "y": 38.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 686.934,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 38.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 52.41999999999996,
+      "str": "FONDOS DE INVERSIÓN",
+      "dir": "ltr",
+      "width": 82.06799999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 112.06799999999998,
+      "y": 52.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 634.042,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 52.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 66.41999999999996,
+      "str": "ORGANIZACIONES PRIVADAS",
+      "dir": "ltr",
+      "width": 100.74399999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 130.74399999999997,
+      "y": 66.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 615.366,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 66.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 80.41999999999996,
+      "str": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO",
+      "dir": "ltr",
+      "width": 152.474,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 182.474,
+      "y": 80.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 563.636,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 80.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 94.41999999999996,
+      "str": "VALORES BURSÁTILES",
+      "dir": "ltr",
+      "width": 78.582,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 108.58199999999998,
+      "y": 94.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 637.528,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 94.41999999999996,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 108.42000000000002,
+      "str": "BONOS",
+      "dir": "ltr",
+      "width": 25.284000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 55.28399999999999,
+      "y": 108.42000000000002,
+      "str": " ",
+      "dir": "ltr",
+      "width": 690.826,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 108.42000000000002,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 122.42000000000002,
+      "str": "OTRO (ESPECIFIQUE)",
+      "dir": "ltr",
+      "width": 73.89899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 103.89899999999999,
+      "y": 122.42000000000002,
+      "str": " ",
+      "dir": "ltr",
+      "width": 642.211,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 122.42000000000002,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 153.42000000000002,
+      "str": "TIPO DE SERVICIO",
+      "dir": "ltr",
+      "width": 63.40599999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 141.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 141.45999999999998,
+      "str": "POR SERVICIOS PROFESIONALES, CONSEJOS, CONSULTORÍAS "y" / O ASESORÍAS (DESPUÉS DE IMPUESTOS).",
+      "dir": "ltr",
+      "width": 535.6999999999999,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 153.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 153.42000000000002,
+      "str": "MONTO",
+      "dir": "ltr",
+      "width": 26.054000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 193.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 193.45999999999998,
+      "str": "POR ENAJENACIÓN DE BIENES (DESPUÉS DE IMPUESTOS)",
+      "dir": "ltr",
+      "width": 287.2799999999999,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 206.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 206.42000000000002,
+      "str": "TIPO BIEN",
+      "dir": "ltr",
+      "width": 34.622,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 64.62199999999999,
+      "y": 206.42000000000002,
+      "str": " ",
+      "dir": "ltr",
+      "width": 659.3280000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 206.42000000000002,
+      "str": "MONTO",
+      "dir": "ltr",
+      "width": 26.054000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 220.42000000000002,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 220.42000000000002,
+      "str": "MUEBLE",
+      "dir": "ltr",
+      "width": 28.784000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 232.42000000000002,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 232.42000000000002,
+      "str": "INMUEBLE",
+      "dir": "ltr",
+      "width": 35.784,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 746.11,
+      "y": 244.42000000000002,
+      "str": "0",
+      "dir": "ltr",
+      "width": 3.892,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 244.42000000000002,
+      "str": "VEHÍCULO",
+      "dir": "ltr",
+      "width": 35.784000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 262.46,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 262.46,
+      "str": "OTROS INGRESOS NO CONSIDERADOS A LOS ANTERIORES (DESPÚES DE IMPUESTOS).",
+      "dir": "ltr",
+      "width": 431.2,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 275.42,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 30,
+      "y": 275.42,
+      "str": "TIPO INGRESO",
+      "dir": "ltr",
+      "width": 50.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 80.56799999999998,
+      "y": 275.42,
+      "str": " ",
+      "dir": "ltr",
+      "width": 643.3820000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 723.95,
+      "y": 275.42,
+      "str": "MONTO",
+      "dir": "ltr",
+      "width": 26.054000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 324.46,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 324.46,
+      "str": "BIENES INMUEBLES (ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR)",
+      "dir": "ltr",
+      "width": 491.78,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 337.42,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 337.42,
+      "str": "TODOS LOS DATOS DE BIENES DECLARADOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y"/O TERCEROS O QUE SEA EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 671.377,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 347.42,
+      "str": "BIENES DEL DECLARANTE, PAREJA "y" / O DEPENDIENTES ECONÓMICOS",
+      "dir": "ltr",
+      "width": 246.22500000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 359.41999999999996,
+      "str": "TIPO DE INMUEBLE:",
+      "dir": "ltr",
+      "width": 67.683,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 369.41999999999996,
+      "str": "CASA",
+      "dir": "ltr",
+      "width": 19.061,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 359.41999999999996,
+      "str": "TITULAR DEL INMUEBLE:",
+      "dir": "ltr",
+      "width": 84.40600000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 369.41999999999996,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 504,
+      "y": 358.5,
+      "str": "PORCENTAJE DE PROPIEDAD DEL DECLARANTE CONFORME A",
+      "dir": "ltr",
+      "width": 215.86600000000016,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 504,
+      "y": 366.65,
+      "str": "ESCRITURACIÓN O CONTRATO:",
+      "dir": "ltr",
+      "width": 108.50700000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 504,
+      "y": 379.41999999999996,
+      "str": "100",
+      "dir": "ltr",
+      "width": 11.676,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 378.5,
+      "str": "SUPERFICIE DEL TERRENO:",
+      "dir": "ltr",
+      "width": 95.683,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 389.41999999999996,
+      "str": "600",
+      "dir": "ltr",
+      "width": 11.676,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 379.41999999999996,
+      "str": "SUPERFICIE DE CON"str"UCCIÓN:",
+      "dir": "ltr",
+      "width": 114.73000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 388.5,
+      "str": "220",
+      "dir": "ltr",
+      "width": 11.676,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 400.5,
+      "str": "TRANSMISOR:",
+      "dir": "ltr",
+      "width": 48.615,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 411.41999999999996,
+      "str": "PERSONA FISICA",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 431.41999999999996,
+      "str": "FORMA DE ADQUISICIÓN:",
+      "dir": "ltr",
+      "width": 87.12199999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 441.41999999999996,
+      "str": "COMPRAVENTA",
+      "dir": "ltr",
+      "width": 54.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 430.5,
+      "str": "FORMA DE PAGO:",
+      "dir": "ltr",
+      "width": 61.06800000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 440.5,
+      "str": "CRÉDITO",
+      "dir": "ltr",
+      "width": 31.500000000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 504,
+      "y": 431.41999999999996,
+      "str": "VALOR DE ADQUISICIÓN:",
+      "dir": "ltr",
+      "width": 85.57500000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 504,
+      "y": 441.41999999999996,
+      "str": "1000000",
+      "dir": "ltr",
+      "width": 27.244,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 451.41999999999996,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.622,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 461.41999999999996,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 451.41999999999996,
+      "str": "FECHA DE ADQUISICIÓN DEL INMUEBLE:",
+      "dir": "ltr",
+      "width": 138.8590000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 461.41999999999996,
+      "str": "2008-06-23",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 471.41999999999996,
+      "str": "¿EL VALOR DE ADQUISICIÓN DEL INMUEBLE ES CONFORME A?:",
+      "dir": "ltr",
+      "width": 218.21800000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 481.41999999999996,
+      "str": "Escritura publica",
+      "dir": "ltr",
+      "width": 51.73700000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 493.42,
+      "str": "EN CASO DE BAJA DEL INMUEBLE INCLUIR MOTIVO:",
+      "dir": "ltr",
+      "width": 177.37299999999993,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 510.46,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 510.46,
+      "str": "VEHÍCULOS (ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR)",
+      "dir": "ltr",
+      "width": 452.32,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 526.42,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 526.42,
+      "str": "TODOS LOS DATOS DE VEHÍCULOS DECLARADOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y"/O TERCEROS O QUE SEA EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 686.1539999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 535.5,
+      "str": "VEHÍCULOS DEL DECLARANTE, PAREJA "y" / O DEPENDIENTES ECONÓMICOS",
+      "dir": "ltr",
+      "width": 261.00200000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 545.5,
+      "str": "TIPO DE VEHÍCULO:",
+      "dir": "ltr",
+      "width": 67.683,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 556.42,
+      "str": "AUTOMÓVIL / MOTOCICLETA",
+      "dir": "ltr",
+      "width": 97.62899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 546.42,
+      "str": "TITULAR DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 84.40600000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 556.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    }
+]
+  [
+    {
+      "x": 20,
+      "y": 27.41999999999996,
+      "str": "TRANSMISOR:",
+      "dir": "ltr",
+      "width": 48.615,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 68.615,
+      "y": 27.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 485.385,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 27.41999999999996,
+      "str": "NOMBRE O RAZÓN SOCIAL DEL TRANSMISOR:",
+      "dir": "ltr",
+      "width": 158.30500000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 37.41999999999996,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 81.068,
+      "y": 37.41999999999996,
+      "str": " ",
+      "dir": "ltr",
+      "width": 472.932,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 37.41999999999996,
+      "str": "VOLKSWAGEN",
+      "dir": "ltr",
+      "width": 49.791,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 57.41999999999996,
+      "str": "MARCA:",
+      "dir": "ltr",
+      "width": 27.223000000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 67.41999999999996,
+      "str": "VOLKSWAGEN",
+      "dir": "ltr",
+      "width": 49.791,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 57.41999999999996,
+      "str": "MODELO:",
+      "dir": "ltr",
+      "width": 32.284,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 67.41999999999996,
+      "str": "2016",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 57.41999999999996,
+      "str": "AÑO:",
+      "dir": "ltr",
+      "width": 17.115000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 67.41999999999996,
+      "str": "2016",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 79.41999999999996,
+      "str": "FORMA DE ADQUISICIÓN:",
+      "dir": "ltr",
+      "width": 87.12199999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 89.41999999999996,
+      "str": "COMPRAVENTA",
+      "dir": "ltr",
+      "width": 54.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 79.41999999999996,
+      "str": "FORMA DE PAGO:",
+      "dir": "ltr",
+      "width": 61.06800000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 89.41999999999996,
+      "str": "CRÉDITO",
+      "dir": "ltr",
+      "width": 31.500000000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 79.41999999999996,
+      "str": "VALOR DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8660000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 89.41999999999996,
+      "str": "252919",
+      "dir": "ltr",
+      "width": 23.352,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 98.5,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.622,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 109.42000000000002,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 99.41999999999996,
+      "str": "FECHA DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8590000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 109.42000000000002,
+      "str": "2016-05-05",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 99.41999999999996,
+      "str": "EN CASO DE BAJA DEL VEHÍCULO INCLUIR MOTIVO:",
+      "dir": "ltr",
+      "width": 177.37300000000013,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 124.42000000000002,
+      "str": "TODOS LOS DATOS DE VEHÍCULOS DECLARADOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y"/O TERCEROS O QUE SEA EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 686.1539999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 133.5,
+      "str": "VEHÍCULOS DEL DECLARANTE, PAREJA "y" / O DEPENDIENTES ECONÓMICOS",
+      "dir": "ltr",
+      "width": 261.00200000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 143.5,
+      "str": "TIPO DE VEHÍCULO:",
+      "dir": "ltr",
+      "width": 67.683,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 154.42000000000002,
+      "str": "AUTOMÓVIL / MOTOCICLETA",
+      "dir": "ltr",
+      "width": 97.62899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 144.42000000000002,
+      "str": "TITULAR DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 84.40600000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 154.42000000000002,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 164.42000000000002,
+      "str": "TRANSMISOR:",
+      "dir": "ltr",
+      "width": 48.615,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 68.615,
+      "y": 164.42000000000002,
+      "str": " ",
+      "dir": "ltr",
+      "width": 485.385,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 164.42000000000002,
+      "str": "NOMBRE O RAZÓN SOCIAL DEL TRANSMISOR:",
+      "dir": "ltr",
+      "width": 158.30500000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 174.42000000000002,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 81.068,
+      "y": 174.42000000000002,
+      "str": " ",
+      "dir": "ltr",
+      "width": 472.932,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 174.42000000000002,
+      "str": "CHEVROLET DEL BOSQUE",
+      "dir": "ltr",
+      "width": 90.24400000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 194.42000000000002,
+      "str": "MARCA:",
+      "dir": "ltr",
+      "width": 27.223000000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 204.42000000000002,
+      "str": "CHEVROLET",
+      "dir": "ltr",
+      "width": 42.784000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 194.42000000000002,
+      "str": "MODELO:",
+      "dir": "ltr",
+      "width": 32.284,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 204.42000000000002,
+      "str": "2013",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 194.42000000000002,
+      "str": "AÑO:",
+      "dir": "ltr",
+      "width": 17.115000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 204.42000000000002,
+      "str": "2013",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 216.42000000000002,
+      "str": "FORMA DE ADQUISICIÓN:",
+      "dir": "ltr",
+      "width": 87.12199999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 226.42000000000002,
+      "str": "COMPRAVENTA",
+      "dir": "ltr",
+      "width": 54.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 216.42000000000002,
+      "str": "FORMA DE PAGO:",
+      "dir": "ltr",
+      "width": 61.06800000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 226.42000000000002,
+      "str": "CRÉDITO",
+      "dir": "ltr",
+      "width": 31.500000000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 216.42000000000002,
+      "str": "VALOR DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8660000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 226.42000000000002,
+      "str": "314900",
+      "dir": "ltr",
+      "width": 23.352,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 235.5,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.622,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 246.42000000000002,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 236.42000000000002,
+      "str": "FECHA DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8590000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 246.42000000000002,
+      "str": "2013-04-30",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 236.42000000000002,
+      "str": "EN CASO DE BAJA DEL VEHÍCULO INCLUIR MOTIVO:",
+      "dir": "ltr",
+      "width": 177.37300000000013,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 261.42,
+      "str": "TODOS LOS DATOS DE VEHÍCULOS DECLARADOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y"/O TERCEROS O QUE SEA EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 686.1539999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 270.5,
+      "str": "VEHÍCULOS DEL DECLARANTE, PAREJA "y" / O DEPENDIENTES ECONÓMICOS",
+      "dir": "ltr",
+      "width": 261.00200000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 280.5,
+      "str": "TIPO DE VEHÍCULO:",
+      "dir": "ltr",
+      "width": 67.683,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 291.42,
+      "str": "AUTOMÓVIL / MOTOCICLETA",
+      "dir": "ltr",
+      "width": 97.62899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 281.42,
+      "str": "TITULAR DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 84.40600000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 291.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 301.42,
+      "str": "TRANSMISOR:",
+      "dir": "ltr",
+      "width": 48.615,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 311.42,
+      "str": "PERSONA FISICA",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 331.42,
+      "str": "MARCA:",
+      "dir": "ltr",
+      "width": 27.223000000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 341.42,
+      "str": "CHEVROLET",
+      "dir": "ltr",
+      "width": 42.784000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 331.42,
+      "str": "MODELO:",
+      "dir": "ltr",
+      "width": 32.284,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 341.42,
+      "str": "2002",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 331.42,
+      "str": "AÑO:",
+      "dir": "ltr",
+      "width": 17.115000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 341.42,
+      "str": "2002",
+      "dir": "ltr",
+      "width": 15.568,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 353.42,
+      "str": "FORMA DE ADQUISICIÓN:",
+      "dir": "ltr",
+      "width": 87.12199999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 363.41999999999996,
+      "str": "COMPRAVENTA",
+      "dir": "ltr",
+      "width": 54.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 353.42,
+      "str": "FORMA DE PAGO:",
+      "dir": "ltr",
+      "width": 61.06800000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 363.41999999999996,
+      "str": "CONTADO",
+      "dir": "ltr",
+      "width": 35,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 353.42,
+      "str": "VALOR DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8660000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 363.41999999999996,
+      "str": "54000",
+      "dir": "ltr",
+      "width": 19.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 372.5,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.622,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 383.41999999999996,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.736999999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 373.41999999999996,
+      "str": "FECHA DE ADQUISICIÓN DEL VEHÍCULO:",
+      "dir": "ltr",
+      "width": 138.8590000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 383.41999999999996,
+      "str": "2012-06-12",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 373.41999999999996,
+      "str": "EN CASO DE BAJA DEL VEHÍCULO INCLUIR MOTIVO:",
+      "dir": "ltr",
+      "width": 177.37300000000013,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 403.46000000000004,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 403.46000000000004,
+      "str": "BIENES MUEBLES ( ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR )",
+      "dir": "ltr",
+      "width": 487.34,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 414.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 414.41999999999996,
+      "str": "TODOS LOS DATOS DE LOS BIENES DECLARADOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y"/O TERCEROS O QUE SEA EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 687.3299999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 424.41999999999996,
+      "str": "BIENES DEL DECLARANTE, PAREJA "y" / O DEPENDIENTES ECONÓMICOS:",
+      "dir": "ltr",
+      "width": 248.17100000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 472.46000000000004,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 472.46000000000004,
+      "str": "INVERSIONES, CUENTAS BANCARIAS "y" OTRO TIPO DE VALORES / ACTIVOS ( ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO",
+      "dir": "ltr",
+      "width": 649.6199999999995,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 486.35,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 486.35,
+      "str": "TODOS LOS DATOS DE LAS INVERSIONES, CUENTAS BANCARIAS "y" OTRO TIPO DE VALORES / ACTIVOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y" O TERCEROS O QUE SEAN EN COPROPIEDAD CON EL",
+      "dir": "ltr",
+      "width": 749.9996699999989,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 494.5,
+      "str": "DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 125.16370999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 505.42,
+      "str": "INVERSIONES, CUENTAS BANCARIAS "y" OTRO TIPO DE VALORES DEL DECLARANTE",
+      "dir": "ltr",
+      "width": 285.90099999999995,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 515.42,
+      "str": "TIPO DE INVERSIÓN / ACTIVO:",
+      "dir": "ltr",
+      "width": 102.30499999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 525.42,
+      "str": "BANCARIA",
+      "dir": "ltr",
+      "width": 35.784000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 471,
+      "y": 515.42,
+      "str": "TITULAR DE LA INVERSIÓN, CUENTA BANCARIA "y" OTRO TIPO DE VALORES:",
+      "dir": "ltr",
+      "width": 257.8940000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 470,
+      "y": 525.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 514.5,
+      "str": "SUB TIPO DE INVERSIÓN:",
+      "dir": "ltr",
+      "width": 86.74400000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 525.42,
+      "str": "CUENTA DE NÓMINA",
+      "dir": "ltr",
+      "width": 70.39200000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 670,
+      "y": 536.5,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 557.42,
+      "str": "RFC:",
+      "dir": "ltr",
+      "width": 16.331,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 577.42,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 537.42,
+      "str": "¿DÓNDE SE LOCALIZA LA INVERSIÓN, CUENTA BANCARIA "y" OTRO TIPO DE VALORES / ACTIVOS ?",
+      "dir": "ltr",
+      "width": 334.1450000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 566.5,
+      "str": "CITIBANAME"x"",
+      "dir": "ltr",
+      "width": 47.453,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 557.42,
+      "str": "INSTITUCIÓN O RAZÓN SOCIAL:",
+      "dir": "ltr",
+      "width": 108.12899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    }
+]
+  [
+    {
+      "x": 287,
+      "y": 27.41999999999996,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 37.41999999999996,
+      "str": "TIPO DE INVERSIÓN / ACTIVO:",
+      "dir": "ltr",
+      "width": 102.30499999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 47.41999999999996,
+      "str": "BANCARIA",
+      "dir": "ltr",
+      "width": 35.784000000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 471,
+      "y": 37.41999999999996,
+      "str": "TITULAR DE LA INVERSIÓN, CUENTA BANCARIA "y" OTRO TIPO DE VALORES:",
+      "dir": "ltr",
+      "width": 257.8940000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 470,
+      "y": 47.41999999999996,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 36.5,
+      "str": "SUB TIPO DE INVERSIÓN:",
+      "dir": "ltr",
+      "width": 86.74400000000007,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 47.41999999999996,
+      "str": "CUENTA DE AHORRO",
+      "dir": "ltr",
+      "width": 73.11500000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 670,
+      "y": 58.5,
+      "str": "ME"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 79.41999999999996,
+      "str": "RFC:",
+      "dir": "ltr",
+      "width": 16.331,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 109.42000000000002,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 99.41999999999996,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 59.41999999999996,
+      "str": "¿DÓNDE SE LOCALIZA LA INVERSIÓN, CUENTA BANCARIA "y" OTRO TIPO DE VALORES / ACTIVOS ?",
+      "dir": "ltr",
+      "width": 334.1450000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 88.5,
+      "str": "CITIBANAME"x"",
+      "dir": "ltr",
+      "width": 47.453,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 79.41999999999996,
+      "str": "INSTITUCIÓN O RAZÓN SOCIAL:",
+      "dir": "ltr",
+      "width": 108.12899999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 125.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 125.45999999999998,
+      "str": "ADEUDOS / PASIVOS (ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR)",
+      "dir": "ltr",
+      "width": 496.22999999999996,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 146.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 146.42000000000002,
+      "str": "TODOS LOS DATOS DE LOS ADEUDOS / PASIVOS A NOMBRE DE LA PAREJA, DEPENDIENTES ECONÓMICOS "y" O TERCEROS O QUE SEAN EN COPROPIEDAD CON EL DECLARANTE NO SERÁN PÚBLICOS.",
+      "dir": "ltr",
+      "width": 687.7219999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 161.42000000000002,
+      "str": "ADEUDOS DEL DECLARANTE",
+      "dir": "ltr",
+      "width": 99.18299999999999,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 171.42000000000002,
+      "str": "TITULAR DEL ADEUDO:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 181.42000000000002,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 171.42000000000002,
+      "str": "TIPO DE ADEUDO:",
+      "dir": "ltr",
+      "width": 61.845000000000056,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 181.42000000000002,
+      "str": "TARJETA DE CRÉDITO BANCARIA",
+      "dir": "ltr",
+      "width": 113.96000000000008,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 191.42000000000002,
+      "str": "FECHA DE ADQUISICIÓN DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 164.92700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 201.42000000000002,
+      "str": "2019-01-02",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 191.42000000000002,
+      "str": "MONTO ORIGINAL DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 142.75800000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 201.42000000000002,
+      "str": "50000",
+      "dir": "ltr",
+      "width": 19.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 191.42000000000002,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 201.42000000000002,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 212.42000000000002,
+      "str": "OTORGANTE DEL CRÉDITO:",
+      "dir": "ltr",
+      "width": 95.29099999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 221.5,
+      "str": "CITIBANAME"x"",
+      "dir": "ltr",
+      "width": 47.453,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 212.42000000000002,
+      "str": "Nombre:",
+      "dir": "ltr",
+      "width": 26.838,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 232.42000000000002,
+      "str": "¿DÓNDE SE LOCALIZA EL ADEUDO?",
+      "dir": "ltr",
+      "width": 122.91999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 242.42000000000002,
+      "str": "MÉ"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 221.5,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 256.42,
+      "str": "TITULAR DEL ADEUDO:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 266.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 256.42,
+      "str": "TIPO DE ADEUDO:",
+      "dir": "ltr",
+      "width": 61.845000000000056,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 266.42,
+      "str": "TARJETA DE CRÉDITO BANCARIA",
+      "dir": "ltr",
+      "width": 113.96000000000008,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 276.42,
+      "str": "FECHA DE ADQUISICIÓN DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 164.92700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 286.42,
+      "str": "2019-01-02",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 276.42,
+      "str": "MONTO ORIGINAL DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 142.75800000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 286.42,
+      "str": "50000",
+      "dir": "ltr",
+      "width": 19.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 276.42,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 286.42,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 297.42,
+      "str": "OTORGANTE DEL CRÉDITO:",
+      "dir": "ltr",
+      "width": 95.29099999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 306.5,
+      "str": "CITIBANAME"x"",
+      "dir": "ltr",
+      "width": 47.453,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 297.42,
+      "str": "Nombre:",
+      "dir": "ltr",
+      "width": 26.838,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 317.42,
+      "str": "¿DÓNDE SE LOCALIZA EL ADEUDO?",
+      "dir": "ltr",
+      "width": 122.91999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 327.42,
+      "str": "MÉ"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 306.5,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 341.42,
+      "str": "TITULAR DEL ADEUDO:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 351.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 341.42,
+      "str": "TIPO DE ADEUDO:",
+      "dir": "ltr",
+      "width": 61.845000000000056,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 351.42,
+      "str": "CRÉDITO AUTOMOTRÍZ",
+      "dir": "ltr",
+      "width": 79.72300000000004,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 361.41999999999996,
+      "str": "FECHA DE ADQUISICIÓN DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 164.92700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 371.41999999999996,
+      "str": "2016-08-17",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 361.41999999999996,
+      "str": "MONTO ORIGINAL DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 142.75800000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 371.41999999999996,
+      "str": "251600",
+      "dir": "ltr",
+      "width": 23.352,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 361.41999999999996,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 371.41999999999996,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 382.41999999999996,
+      "str": "OTORGANTE DEL CRÉDITO:",
+      "dir": "ltr",
+      "width": 95.29099999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 391.5,
+      "str": "BANORTE",
+      "dir": "ltr",
+      "width": 33.83800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 382.41999999999996,
+      "str": "Nombre:",
+      "dir": "ltr",
+      "width": 26.838,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 402.41999999999996,
+      "str": "¿DÓNDE SE LOCALIZA EL ADEUDO?",
+      "dir": "ltr",
+      "width": 122.91999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 412.41999999999996,
+      "str": "MÉ"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 391.5,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 426.41999999999996,
+      "str": "TITULAR DEL ADEUDO:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 436.41999999999996,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 426.41999999999996,
+      "str": "TIPO DE ADEUDO:",
+      "dir": "ltr",
+      "width": 61.845000000000056,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 436.41999999999996,
+      "str": "CRÉDITO HIPOTECARIO",
+      "dir": "ltr",
+      "width": 81.67600000000003,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 446.41999999999996,
+      "str": "FECHA DE ADQUISICIÓN DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 164.92700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 456.41999999999996,
+      "str": "2008-04-23",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 446.41999999999996,
+      "str": "MONTO ORIGINAL DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 142.75800000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 456.41999999999996,
+      "str": "1000000",
+      "dir": "ltr",
+      "width": 27.244,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 446.41999999999996,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 456.41999999999996,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 467.41999999999996,
+      "str": "OTORGANTE DEL CRÉDITO:",
+      "dir": "ltr",
+      "width": 95.29099999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 476.5,
+      "str": "BANORTE",
+      "dir": "ltr",
+      "width": 33.83800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 467.41999999999996,
+      "str": "Nombre:",
+      "dir": "ltr",
+      "width": 26.838,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 487.42,
+      "str": "¿DÓNDE SE LOCALIZA EL ADEUDO?",
+      "dir": "ltr",
+      "width": 122.91999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 497.42,
+      "str": "MÉ"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 476.5,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 511.42,
+      "str": "TITULAR DEL ADEUDO:",
+      "dir": "ltr",
+      "width": 78.56800000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 521.42,
+      "str": "DECLARANTE",
+      "dir": "ltr",
+      "width": 47.06100000000001,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 511.42,
+      "str": "TIPO DE ADEUDO:",
+      "dir": "ltr",
+      "width": 61.845000000000056,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 521.42,
+      "str": "TARJETA DE CRÉDITO BANCARIA",
+      "dir": "ltr",
+      "width": 113.96000000000008,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 531.42,
+      "str": "FECHA DE ADQUISICIÓN DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 164.92700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 541.42,
+      "str": "2019-02-01",
+      "dir": "ltr",
+      "width": 35.798,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 531.42,
+      "str": "MONTO ORIGINAL DEL ADEUDO / PASIVO:",
+      "dir": "ltr",
+      "width": 142.75800000000012,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 541.42,
+      "str": "40000",
+      "dir": "ltr",
+      "width": 19.46,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 531.42,
+      "str": "TIPO DE MONEDA:",
+      "dir": "ltr",
+      "width": 62.62200000000006,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 554,
+      "y": 541.42,
+      "str": "PESO ME"x"ICANO",
+      "dir": "ltr",
+      "width": 58.73700000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 552.42,
+      "str": "OTORGANTE DEL CRÉDITO:",
+      "dir": "ltr",
+      "width": 95.29099999999998,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 561.5,
+      "str": "CITIBANAME"x"",
+      "dir": "ltr",
+      "width": 47.453,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 287,
+      "y": 552.42,
+      "str": "Nombre:",
+      "dir": "ltr",
+      "width": 26.838,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 572.42,
+      "str": "¿DÓNDE SE LOCALIZA EL ADEUDO?",
+      "dir": "ltr",
+      "width": 122.91999999999997,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 582.42,
+      "str": "MÉ"x"ICO",
+      "dir": "ltr",
+      "width": 27.615000000000002,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 561.5,
+      "str": "PERSONA MORAL",
+      "dir": "ltr",
+      "width": 61.068000000000005,
+      "height": 7,
+      "fontName": "Helvetica"
+    }
+]
+  [
+    {
+      "x": 20,
+      "y": 36.460000000000036,
+      "str": "PRÉSTAMO O COMODATO POR TERCEROS ( ENTRE EL 1 DE ENERO "y" EL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR )",
+      "dir": "ltr",
+      "width": 611.2299999999998,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 50.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 50.41999999999996,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 67.46000000000004,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 67.46000000000004,
+      "str": "PARTICIPACIÓN EN EMPRESAS, SOCIEDADES O ASOCIACIONES (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 465.66999999999985,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 78.41999999999996,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 78.41999999999996,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 94.46000000000004,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 94.46000000000004,
+      "str": "¿ PARTICIPA EN LA TOMA DE DECISIONES DE ALGUNA DE ESTAS INSTITUCIONES ? (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 559.5799999999999,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 105.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 105.42000000000002,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 119.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 119.45999999999998,
+      "str": "APO"y"OS O BENEFICIOS PÚBLICOS (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 321.7599999999999,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 132.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 132.42000000000002,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 148.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 148.45999999999998,
+      "str": "REPRESENTACIÓN (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 245.05,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 165.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 165.42000000000002,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 186.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 186.45999999999998,
+      "str": "BENEFICIOS PRIVADOS (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 267.28999999999996,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 201.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 201.42000000000002,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 218.45999999999998,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 218.45999999999998,
+      "str": "FIDEICOMISOS (HASTA LOS 2 ÚLTIMOS AÑOS)",
+      "dir": "ltr",
+      "width": 225.05,
+      "height": 10,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 235.42000000000002,
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 7,
+      "fontName": "Helvetica"
+    },
+    {
+      "x": 20,
+      "y": 235.42000000000002,
+      "str": "( N i n g u n o )",
+      "dir": "ltr",
+      "width": 46.298,
+      "height": 7,
+      "fontName": "Helvetica"
+    }
+]

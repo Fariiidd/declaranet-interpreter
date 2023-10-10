@@ -60,6 +60,16 @@ export const datosPuestoConfig = [
         key: "dependencia_entidad"
     },
     {
+        str: "ÁMBITO PÚBLICO:",
+        x: 281,
+        key: "ambito_publico"
+    },
+    {
+        str: "NIVEL JERÁRQUICO:",
+        x: 280,
+        key: "nivel_jerarquico"
+    },
+    {
         str: "FECHA DE CONCLUSIÓN DEL EMPLEO, CARGO O COMISIÓN:",
         x: 280,
         key: "fecha_inicio_del_encargo"
@@ -68,6 +78,16 @@ export const datosPuestoConfig = [
         str: "¿ESTÁ CONTRATADO POR HONORARIOS?:",
         x: 281,
         key: "contratado_por_honorarios"
+    },
+    {
+        str: "ÁREA DE ADSCRIPCIÓN:",
+        x: 281,
+        key: "area_adscripcion"
+    },
+    {
+        str: "NIVEL DEL EMPLEO, CARGO O COMISIÓN:",
+        x: 281,
+        key: "nivel_encargo_puesto"
     },
     // {
     //   str: "ENTIDAD FEDERATIVA:",
@@ -155,7 +175,6 @@ export const mapperPrivado = [
     { value: "ÁMBITO / SECTOR EN EL QUE LABORASTE:", addPositions: 10, key: "ambito_sector" },
     { value: "NIVEL / ORDEN DE GOBIERNO:", addPositions: 13, key: "nivel_orden_gobierno" },
     { value: "NOMBRE DEL ENTE PÚBLICO / NOMBRE DE LA EMPRESA,", addPositions: 13, key: "dependencia_entidad" },
-    { value: "SOCIEDAD O ASOCIACIÓN:", addPositions: 12, key: "sociedad_asociacion" },
     { value: "RFC:", addPositions: 8, key: "rfc" },
     { value: "ÁREA DE ADSCRIPCIÓN / ÁREA:", addPositions: 13, key: "area_adscripcion" },
     { value: "EMPLEO, CARGO O COMISIÓN / PUESTO:", addPositions: 11, key: "nombre_encargo_puesto" },
@@ -168,7 +187,6 @@ export const mapperNeto = [
     { value: "ÁMBITO / SECTOR EN EL QUE LABORASTE:", addPositions: 10, key: "ambito_sector" },
     { value: "NIVEL / ORDEN DE GOBIERNO:", addPositions: 13, key: "nivel_orden_gobierno" },
     { value: "NOMBRE DEL ENTE PÚBLICO / NOMBRE DE LA EMPRESA,", addPositions: 13, key: "dependencia_entidad" },
-    { value: "SOCIEDAD O ASOCIACIÓN:", addPositions: 12, key: "sociedad_asociacion" },
     { value: "RFC:", addPositions: 8, key: "rfc" },
     { value: "ÁREA DE ADSCRIPCIÓN / ÁREA:", addPositions: 13, key: "area_adscripcion" },
     { value: "EMPLEO, CARGO O COMISIÓN / PUESTO:", addPositions: 11, key: "nombre_encargo_puesto" },

@@ -264,7 +264,7 @@ export class DeclaraNetController {
                 return ingresos;
             }
 
-            new PDFExtract().extract("pdf/case1.pdf", {
+            new PDFExtract().extract("pdf/pdf-7.pdf", {
                 // disableCombineTextItems: true,
             }).then(async data => {
 
@@ -314,7 +314,8 @@ export class DeclaraNetController {
                 let strIngresos = "";
                 data.pages.forEach((page) => {
                     const { pageInfo, content } = page
-
+                    // console.log(content);
+                    // res.send(content)
                     if (pageInfo.num === 1) {
                         content.forEach((text, idx) => {
                             if (text.str !== "" && text.str !== " ") {
@@ -322,6 +323,9 @@ export class DeclaraNetController {
                                 // Información personal
                                 if (text.x === 202 && text.y === 169.42000000000002) {
                                     arrData.informacion_personal.nombre = text.str
+                                }
+                                if (text.x === 202 && text.y === 179.5) {
+                                    arrData.contacto.correo_electrónico_institucional = text.str
                                 }
                                 if (text.x === 602.61 && text.y === 94.27999999999997) {
                                     const regex = /(\d{2}\/\d{2}\/\d{4})/;
@@ -359,7 +363,8 @@ export class DeclaraNetController {
 
                                 arrData.contacto = contactoConfig.reduce((acc, curr) => {
                                     const { str, x, key } = curr;
-                                    if (text.str === str) {
+
+                                    if (str && text.str === str) {
                                         acc[key] = content
                                             .find((tx) =>
                                                 tx.x === x && tx.y === content[idx].y
@@ -522,7 +527,7 @@ export class DeclaraNetController {
                 arrData.mueble = getDataMueble(mueblePositionsIdxs, data)
                 arrData.inversion = getDataInversion(InversionPositionsIdxs, data)
                 arrData.adeudos = getDataAdeudos(adeudosPositionsIdxs, data)
-                console.log(arrData, "cs");
+                // console.log(arrData, "cs");
 
                 res.send(arrData)
 
